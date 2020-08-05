@@ -7,3 +7,5 @@ commit 3 in master
 commit 4 in master
 
 commit 5 in master
+
+commit 6 in master
